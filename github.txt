@@ -4,4 +4,5 @@
 4) searching-public,private
 5) drop repository
 6) drop file from repository and check number of commits
-7) 
+7) Checking update file in git
+8) after that test
