@@ -1,6 +1,0 @@
-1) login
-2) create new repository
-3) uploading files
-4) searching-public,private
-5) drop repository
-6)
