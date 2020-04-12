@@ -1,0 +1,7 @@
+1) login
+2) create new repository
+3) uploading files
+4) searching-public,private
+5) drop repository
+6) drop file from repository and check number of commits
+7) 
